@@ -11,3 +11,6 @@ Guess the random interger created by the program.
 
 - `Rock_Paper_Scisssor.py`
 A simple game of Rock, Paper, Scissor against the computer.
+
+- `Hangman.py`
+A word guesser game
