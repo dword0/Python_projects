@@ -20,3 +20,6 @@ A countdown timer in python using while loop where the user enters the time in s
 
 - `Password_Generator.py` : 
 Password generator to generate `n` number of passwords of length `l` where `n` and `l` are given by the user. 
+
+- `QRCode_Encoder_Decoder.py` : 
+QRCode encoder and decoder
