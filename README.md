@@ -14,3 +14,6 @@ A simple game of Rock, Paper, Scissor against the computer.
 
 - `Hangman.py`
 A word guesser game
+
+- `Countdown_timer.py`
+A countdown timer in python using while loop where the user enters the time in seconds.
