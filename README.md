@@ -17,3 +17,6 @@ A word guesser game
 
 - `Countdown_timer.py`
 A countdown timer in python using while loop where the user enters the time in seconds.
+
+- `Password_Generator.py`
+Password generator to generate `n` number of passwords of length `l` where `n` and `l` are given by the user. 
