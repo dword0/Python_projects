@@ -24,6 +24,9 @@ Password generator to generate `n` number of passwords of length `l` where `n` a
 - `QRCode_Encoder_Decoder.py` : 
 QRCode encoder and decoder
 
-- `Tic-Tac-Toe` : 
+- `Tic_Tac_Toe` : 
 Tic Tac Toe class + game play implementation
+
+- `Binary_Search.py` : 
+Perform binary search and finding the difference in the time for finding a number using Binary Search and the Naive Search algorithm. 
 
